@@ -1,4 +1,4 @@
-Node.js Command Line Calculator
+1) Node.js Command Line Calculator
 
 📄 Description
 
@@ -16,7 +16,7 @@ Beginner-friendly Node.js project
 
 Node.js
 
-Node.js File System Read & Write App
+2) Node.js File System Read & Write App
 
 📄 Description
 
@@ -34,7 +34,7 @@ Uses built-in Node.js modules
 
 Node.js
 
-File System (fs) module
+3) File System (fs) module
 
 Simple Express Web Server
 
